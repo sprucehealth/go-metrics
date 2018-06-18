@@ -10,7 +10,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/samuel/go-metrics/metrics"
+	"github.com/sprucehealth/go-metrics/metrics"
 )
 
 type writerReporter struct {

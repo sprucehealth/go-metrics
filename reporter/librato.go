@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/samuel/go-librato/librato"
-	"github.com/samuel/go-metrics/metrics"
+	"github.com/sprucehealth/go-metrics/metrics"
 )
 
 type libratoReporter struct {
